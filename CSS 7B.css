@@ -1,0 +1,103 @@
+.nav {
+	/* Rectangle */
+
+
+position: absolute;
+width: 1440px;
+height: 109px;
+left: 0px;
+top: 0px;
+
+background: #FFFEFE;
+box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.25);
+}
+
+.nav .logo {
+	/* 1_7ugSMISUo8vYf9ILG6VmuQ */
+
+
+position: absolute;
+width: 150px;
+height: 106px;
+left: 48px;
+top: 0px;
+background: url(1_7ugSMISUo8vYf9ILG6VmuQ.png);
+
+}
+
+.judul {
+	/* ARKADEMY BOOTCAMP */
+
+
+position: absolute;
+width: 555px;
+height: 65px;
+left: 214px;
+top: 34px;
+
+font-family: Open Sans;
+font-style: normal;
+font-weight: 600;
+font-size: 30px;
+line-height: 41px;
+
+color: #000000;
+}
+
+.addhome {
+	/* Rectangle 3 */
+
+
+position: absolute;
+width: 190px;
+height: 70px;
+left: 1111px;
+top: 353px;
+
+background: #F3AC13;
+border-radius: 10px;
+}
+
+.add {
+	/* ADD */
+
+
+position: absolute;
+width: 136px;
+height: 32px;
+left: 1171px;
+top: 368px;
+
+font-family: Open Sans;
+font-style: normal;
+font-weight: 600;
+font-size: 30px;
+line-height: 41px;
+
+color: #FFEFEF;
+}
+
+.tabelhome {
+	position: absolute;
+	width: 1169px;
+	height: 526.02px;
+	left: 143px;
+	top: 450.99px;
+}
+
+.action {
+	position: absolute;
+width: 50px;
+height: 50px;
+
+
+background: url(trash.png);
+}
+
+.edit {
+	position: absolute;
+width: 45px;
+height: 45px;
+right: 100px;
+background: url(edit.png);
+}
